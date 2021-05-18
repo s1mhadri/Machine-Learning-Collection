@@ -3,7 +3,7 @@ Implementation of concepts learnt in Machine Learning course in SS21
 
 MS_MachineLearning  
 |--Classification  
-|<space>|--ML_01_kNN  
+|         |--ML_01_kNN  
 |    |--ML_02_Naive_Bayes  
 |--Regression  
      |--ML_03_Ridge_Regression  
