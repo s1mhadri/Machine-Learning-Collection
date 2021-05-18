@@ -1,12 +1,5 @@
 # Machine Learning Algorithms
-Implementation of concepts learnt in Machine Learning course in SS21
-
-MS_MachineLearning  
-|--Classification  
-|    +|--ML_01_kNN  
-|    +|--ML_02_Naive_Bayes  
-|--Regression  
-     +|--ML_03_Ridge_Regression  
+Implementation of concepts learnt in Machine Learning course in SS21  
 
 ## 1. k-Nearest Neighbors
 * Implementing the kNN algorithm with uniform and distance-based weighting and arbitrary k.
@@ -18,3 +11,4 @@ MS_MachineLearning
 ## 2. Naive Bayes Classifier
 
 ## 3. Ridge Regression
+
