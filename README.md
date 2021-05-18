@@ -14,3 +14,24 @@ MS_MachineLearning
     * If the value is uniform, the classifier should use the Euclidean distance for determining nearest neighbors and uniform weighting.
     * If the value is a distance, the classifier should use the Euclidean distance for determining neares neighbors and perform distance-weighted classification.
 * Implement functions to compute precision, recall and F1-score.
+
+- __michal__
+  - [LICENSE](LICENSE)
+  - [README.md](README.md)
+  - __bin__
+    - [cli.js](bin/cli.js)
+  - [michal.png](michal.png)
+  - [node\_modules](node_modules)
+  - [npm\-debug.log](npm-debug.log)
+  - [package.json](package.json)
+  - [screen.png](screen.png)
+  - __scripts__
+    - [assert.js](scripts/assert.js)
+    - [fancom.js](scripts/fancom.js)
+    - [jshintrc.js](scripts/jshintrc.js)
+    - [package\-json.js](scripts/package-json.js)
+    - [precommit\-hook.js](scripts/precommit-hook.js)
+    - [scripts.js](scripts/scripts.js)
+    - [tests.js](scripts/tests.js)
+  - __tests__
+    - [michal\-tests.js](tests/michal-tests.js)
