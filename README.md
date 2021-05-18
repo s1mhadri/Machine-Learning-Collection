@@ -16,7 +16,7 @@ MS_MachineLearning
 * Implement functions to compute precision, recall and F1-score.
 
 '''
-asafawk
-awfahuwfhaw
-awfawug
+asafawk  
+awfahuwfhaw  
+awfawug  
 '''
