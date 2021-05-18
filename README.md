@@ -15,3 +15,12 @@ MS_MachineLearning
     * If the value is a distance, the classifier should use the Euclidean distance for determining neares neighbors and perform distance-weighted classification.
 * Implement functions to compute precision, recall and F1-score.
 
+1. List item one.
++
+List item one continued with a second paragraph followed by an
+Indented block.
++
+.................
+$ ls *.sh
+$ mv *.sh ~/tmp
+.................
