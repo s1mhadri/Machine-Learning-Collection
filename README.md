@@ -1,8 +1,8 @@
 # Machine Learning Algorithms
 Implementation of concepts learnt in Machine Learning course in SS21
 
-MS_MachineLearning
-.
+MS_MachineLearning\
+.  
 +--Classification  
 |   +--ML_01_kNN  
 |   +--ML_02_Naive_Bayes  
