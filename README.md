@@ -15,8 +15,6 @@ MS_MachineLearning
     * If the value is a distance, the classifier should use the Euclidean distance for determining neares neighbors and perform distance-weighted classification.
 * Implement functions to compute precision, recall and F1-score.
 
-'''
-asafawk  
-awfahuwfhaw  
-awfawug  
-'''
+## 2. Naive Bayes Classifier
+
+## 3. Ridge Regression
